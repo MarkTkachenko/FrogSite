@@ -1,0 +1,126 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+.mainDiv {
+}
+.box {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+
+}
+.leftPanel {
+    width: 300px;
+    height: 1050px;
+    background-color:#1a1a1a;
+    margin: 0;
+    box-sizing: border-box;
+}
+.divLogo{
+    margin-left: 650px;
+    margin-top: -660px;
+    border-bottom: gold 2px solid;
+}
+.textDiv {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    background-color: black;
+    width: 1200px;
+    height: 700px;
+    margin-left: 400px;
+    /*margin-top: 50px;*/
+}
+.rightDiv {
+    width: 200px;
+    height: 700px;
+    background-color: brown;
+    margin-left: 1700px;
+    margin-top: -850px;
+}
+.centerDiv {
+
+}
+.frogs {
+    margin: 0;
+}
+.imgFrog {
+    width: 200px;
+    height: 600px;
+}
+.stand {
+    box-sizing: border-box;
+    height: 260px;
+    width: 235px;
+    background-color: #1a1a1a;
+    border: gray 5px solid;
+}
+.stand2 {
+    box-sizing: border-box;
+    /*margin-left: -100px;*/
+    height: 230px;
+    width: 285px;
+    background-color: #1a1a1a;
+    border: gray 5px solid;
+}
+
+.stand3 {
+    box-sizing: border-box;
+    margin-top: 300px;
+    margin-left: -480px;
+    height: 225px;
+    width: 283px;
+    background-color: #1a1a1a;
+    border: gray 5px solid;
+}
+.stand4 {
+    box-sizing: border-box;
+    height: 225px;
+    width: 283px;
+    background-color: #1a1a1a;
+    border: gray 5px solid;
+}
+.stand5 {
+     margin-top: 300px;
+     margin-left: -430px;
+     box-sizing: border-box;
+     height: 230px;
+     width: 285px;
+     background-color: #1a1a1a;
+     border: gray 5px solid;
+ }
+.stand6 {
+    margin-top: 300px;
+    margin-left: -470px;
+    box-sizing: border-box;
+    height: 230px;
+    width: 285px;
+    background-color: #1a1a1a;
+    border: gray 5px solid;
+}
+.white {
+    color: white;
+    margin-left: 60px;
+}
+.menuClass {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.menu {
+    border-bottom: black 2px solid;
+}
+.wh {
+    margin: 20px;
+    color: gray;
+    border-bottom: black 2px solid;
+}
+.ppp {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    background-color: white;
+    width: 270px;
+    height: 600px;
+}
